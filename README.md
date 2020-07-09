@@ -3,6 +3,6 @@
 💻 &nbsp; I work with `Python, Ruby On Rails, JavaScript, ReactJS, NodeJS Express, MongoDB...`.
 
 I am currently looking for a 6-month-internship as a Full-Stack Developer in Paris. 
-Please have a look at my portfolio: [**https://sandrinecao.github.io/**](https://sandrinecao.github.io/)
+Please have a look at my portfolio:  [**https://sandrinecao.github.io**](https://sandrinecao.github.io)
 
 ![Figure 1-1](	https://res.cloudinary.com/dkyqbngya/image/upload/v1592561591/eursrsqyomdcrfynwrnj.png "Portfolio")
