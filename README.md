@@ -4,7 +4,7 @@
 
 📢 I am currently looking for **a 6-month-internship as a Full-Stack Developer in Paris**.
 
-Please have a look at my portfolio to see all my apps deployed on Heroku:   
+Have a look at my portfolio to see all my apps deployed on Heroku and enjoy a brew ☕   
 
 🔗 [**https://sandrinecao.github.io**](https://sandrinecao.github.io)
 
