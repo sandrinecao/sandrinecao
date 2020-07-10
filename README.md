@@ -2,7 +2,7 @@
 
 💻 I work with `Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
-**I am currently looking for a 6-month-internship as a Full-Stack Developer in Paris.**  
+📢 I am currently looking for **a 6-month-internship as a Full-Stack Developer in Paris**.
 
 Please have a look at my portfolio to see all my apps deployed on Heroku:   
 
