@@ -1,8 +1,8 @@
 # Welcome to my GitHub page 🚀 [![HitCount](http://hits.dwyl.com/sandrinecao/sandrinecao.svg)](http://hits.dwyl.com/sandrinecao/sandrinecao)
 
-💻 I work with `Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
+💻 I work with `Typescript, Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
-📢 I am currently looking for **a 6-month-internship as a Full-Stack Developer in Paris**.
+👩‍💻 I am currently working for **Vinci Facilities as a Full-Stack Developer Intern**.
 
 Have a look at my portfolio to see all my apps deployed on Heroku and enjoy a brew ☕   
 
