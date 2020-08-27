@@ -2,7 +2,7 @@
 
 💻 I work with `Typescript, Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
-👩‍💻 I am currently working for **Vinci Facilities as a Full-Stack Developer Intern**.
+👩‍💻 I am currently working for **Vinci Facilities** as a **Full-Stack Developer Intern**.
 
 Have a look at my portfolio to see all my apps deployed on Heroku and enjoy a brew ☕   
 
