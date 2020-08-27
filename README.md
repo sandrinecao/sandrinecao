@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 🚀 [![HitCount](http://hits.dwyl.com/sandrinecao/sandrinecao.svg)](http://hits.dwyl.com/sandrinecao/sandrinecao)
 
-💻 I work with `Typescript, Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
+💻 I work with `TypeScript, Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
 👩‍💻 I am currently working for **Vinci Facilities** as a **Full-Stack Developer Intern**.
 
