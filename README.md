@@ -1,4 +1,4 @@
-# Welcome to my GitHub page 🚀 [![HitCount](http://hits.dwyl.com/sandrinecao/sandrinecao.svg)]
+# Welcome to my GitHub page 🚀
 
 💻 I work with `TypeScript, Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
