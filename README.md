@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 🚀
 
-💻 I work with `TypeScript, Python, Ruby On Rails, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
+💻 I work with `Python, Go, TypeScript, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
 👩‍💻 I am currently looking for a permanent contract or an internship as a **Full-Stack Developer**.
 
