@@ -2,7 +2,7 @@
 
 💻 I work with `Python, Go, TypeScript, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
-👩‍💻 I am currently looking for a permanent contract or an internship as a **Full-Stack Developer**.
+👩‍💻 I am currently working as a Back-End Developer at **@leboncoin**. I am also looking for opportunies as a **Full-Stack Developer**.
 
 Have a look at my portfolio to see all my apps deployed on Heroku and enjoy a brew ☕   
 
