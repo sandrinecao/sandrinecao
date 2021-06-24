@@ -8,4 +8,4 @@ Have a look at my portfolio to see all my apps deployed on Heroku and enjoy a br
 
 🔗 [**https://sandrinecao.github.io**](https://sandrinecao.github.io)
 
-[![Foo](https://res.cloudinary.com/dkyqbngya/image/upload/v1594325657/s0ncwnajosrbahb6u2xo.gif)](https://sandrinecao.github.io)
+[![Foo](https://res.cloudinary.com/dkyqbngya/image/upload/v1624539388/rxercxqkuyfvsk66t4bo.gif)](https://sandrinecao.github.io)
