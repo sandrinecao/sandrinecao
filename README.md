@@ -2,7 +2,7 @@
 
 💻 I work with `Python, Go, TypeScript, JavaScript, ReactJS, NodeJS, Express, MongoDB...`
 
-👩‍💻 I am currently working as a Back-End Developer at **@leboncoin**. I am also looking for opportunies as a **Full-Stack Developer**.
+👩‍💻 I am currently working as a Back-End Developer at **@leboncoin**. I am also open to opportunities as a **Full-Stack Developer** with ReactJS.
 
 Have a look at my portfolio to see all my apps deployed on Heroku and enjoy a brew ☕   
 
